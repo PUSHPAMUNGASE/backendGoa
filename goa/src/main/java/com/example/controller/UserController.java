@@ -1,6 +1,3 @@
-
-
-
 package com.example.controller;
 
 import com.example.dto.UserRegistrationRequest;
